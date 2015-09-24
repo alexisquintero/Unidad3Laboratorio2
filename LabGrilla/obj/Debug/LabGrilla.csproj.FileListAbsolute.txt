@@ -1,0 +1,11 @@
+c:\Proyectos\Unidades\Unidad03\LabGrilla\LabGrilla\bin\Debug\LabGrilla.exe.config
+c:\Proyectos\Unidades\Unidad03\LabGrilla\LabGrilla\obj\Debug\LabGrilla.csprojResolveAssemblyReference.cache
+c:\Proyectos\Unidades\Unidad03\LabGrilla\LabGrilla\obj\Debug\LabGrilla.formListaUsuarios.resources
+c:\Proyectos\Unidades\Unidad03\LabGrilla\LabGrilla\obj\Debug\LabGrilla.Properties.Resources.resources
+c:\Proyectos\Unidades\Unidad03\LabGrilla\LabGrilla\obj\Debug\LabGrilla.csproj.GenerateResource.Cache
+c:\Proyectos\Unidades\Unidad03\LabGrilla\LabGrilla\bin\Debug\LabGrilla.exe
+c:\Proyectos\Unidades\Unidad03\LabGrilla\LabGrilla\bin\Debug\LabGrilla.pdb
+c:\Proyectos\Unidades\Unidad03\LabGrilla\LabGrilla\bin\Debug\Negocio.dll
+c:\Proyectos\Unidades\Unidad03\LabGrilla\LabGrilla\bin\Debug\Negocio.pdb
+c:\Proyectos\Unidades\Unidad03\LabGrilla\LabGrilla\obj\Debug\LabGrilla.exe
+c:\Proyectos\Unidades\Unidad03\LabGrilla\LabGrilla\obj\Debug\LabGrilla.pdb
